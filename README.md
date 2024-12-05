@@ -129,7 +129,7 @@ $$
 ### สมการ (1): แสดง Transformation matrix ตั้งแต่ Frame 0 ถึง Frame End-effector
 
 $$
-{T}{_{e}}_{i}^0{} =
+T_e^0_i =
 \begin{bmatrix}
 c_{i,1} c_{i,23} & -c_{i,1} s_{i,23} & -s_{i,1} & c_{i,1} L_1 + c_{i,1} c_{i,2} L_2 + c_{i,1} c_{i,23} L_3 \\
 s_{i,1} c_{i,23} & -s_{i,1} s_{i,23} & c_{i,1} & s_{i,1} L_1 + s_{i,1} c_{i,2} L_2 + s_{i,1} c_{i,23} L_3 \\
