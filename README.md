@@ -94,12 +94,13 @@
 
 โดย **Transformation Matrix** จากแต่ละข้อ $( i )$ ไปยัง $( i-1 $) จะมีรูปแบบดังนี้
 
-$
-T_e^0 = 
+$$
+
+T_i^{i-1} = 
 \begin{bmatrix}
-c_{i,1} c_{i,23} & -c_{i,1} s_{i,23} & -s_{i,1} & c_{i,1} L_1 + c_{i,1} c_{i,2} L_2 + c_{i,1} c_{i,23} L_3 \\
-s_{i,1} c_{i,23} & -s_{i,1} s_{i,23} & c_{i,1} & s_{i,1} L_1 + s_{i,1} c_{i,2} L_2 + s_{i,1} c_{i,23} L_3 \\
--s_{i,23} & -c_{i,23} & 0 & -s_{i,2} L_2 - s_{i,23} L_3 \\
+\cos\theta_i & -\sin\theta_i \cos\alpha_i & \sin\theta_i \sin\alpha_i & a_i \cos\theta_i \\
+\sin\theta_i & \cos\theta_i \cos\alpha_i & -\cos\theta_i \sin\alpha_i & a_i \sin\theta_i \\
+0 & \sin\alpha_i & \cos\alpha_i & d_i \\
 0 & 0 & 0 & 1
 \end{bmatrix}
 $$
