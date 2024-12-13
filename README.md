@@ -759,7 +759,9 @@ $$
 >    ```
 > 4. Press Enter and wait for the download to complete.
 
-[![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://youtu.be/HdOScgHzM_g?si=699VRjN-CH8wouwy)
+<!-- [![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://youtu.be/HdOScgHzM_g?si=699VRjN-CH8wouwy) -->
+[![GUI Input](https://img.youtube.com/vi/7bztDRiHXAU/0.jpg)](https://www.youtube.com/watch?v=7bztDRiHXAU)
+
 
 คลิกที่ภาพเพื่อดูวิดีโอ
 
@@ -870,9 +872,15 @@ $$ P_{s}=\begin{bmatrix}{{V}_{F}}{T}_0\\ 0\end{bmatrix} $$
   1. ผลลัพธ์การจำลองการเคลื่อนที่ของหุ่นยนต์ในปริภูมิ 3 มิติ
 โดยใช้ระบบการจำลองการเคลื่อนที่ของหุ่นยน์เพื่อให้เห็นพื้นที่การทำงานโดยรวม
 
-//  ใส่คลิปวิดีโอ RobotMoving.mp4
+[![Watch Video](https://img.youtube.com/vi/lc5_IkYX8-M/0.jpg)](https://www.youtube.com/watch?v=lc5_IkYX8-M)
+
+
 
 2. ผลลัพธ์การจำลองกากรเคลื่อนที่ของขาหุ่นยนต์เพื่อเเสดงขอบเขตพื้นที่การทำงานของขาหุ่นยนต์ 1 ข้าง
+
+[![Watch Video](https://img.youtube.com/vi/L9r2PQnFWew/0.jpg)](https://www.youtube.com/watch?v=L9r2PQnFWew)
+
+
 - ขอบเขตพื้นที่การทำงานในแต่ละแกน:
   - แกน X: 0.029 - 0.370 เมตร
   - แกน Y: 0.099 - 0.100 เมตร
@@ -1033,15 +1041,3 @@ $$ P_{s}=\begin{bmatrix}{{V}_{F}}{T}_0\\ 0\end{bmatrix} $$
     Duty Cycle มีผลต่อความเร็วในการเคลื่อนที่ : Duty Cycle ที่สูงขึ้น ส่งผลให้ความเร็วในการเคลื่อนที่สูงขึ้น และใช้เวลาในการเคลื่อนที่น้อยลง
     
     Duty Cycle มีผลต่อการสั่นสะเทือน: Duty Cycle ที่สูงขึ้น อาจทำให้เกิดการสั่นสะเทือนมากขึ้น
-
-[![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://www.youtube.com/watch?si=ISnkMmEsEeHppOCs&v=FFY9ahNprZA&feature=youtu.be)
-
-คลิกที่ภาพเพื่อดูวิดีโอ
-
-[![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://youtu.be/HdOScgHzM_g?si=699VRjN-CH8wouwy)c
-
-คลิกที่ภาพเพื่อดูวิดีโอ
-
-[![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://www.youtube.com/watch?si=Ws8e2gk5lV29k6WU&v=lc5_IkYX8-M&feature=youtu.be)
-
-คลิกที่ภาพเพื่อดูวิดีโอ
