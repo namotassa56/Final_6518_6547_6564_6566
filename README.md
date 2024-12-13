@@ -349,10 +349,11 @@ $$
 
 ### ผลการศึกษาที่คาดหวัง
 
-1.	Toolbox ที่สามารถใช้ในการคำนวณ Kinematics ทั้ง Forward Kinematics และ Inverse Kinematics และสามารถสร้างเมริกซ์ DH Parameters ได้
-2.	Toolbox ที่สามารถวางแผน Trajectory ของขาหุ่นยนต์ใน Workspace และสามารถสร้างเส้นทางการเคลื่อนไหวที่เหมาะสมใน Task space
-3.	สามารถตรวจสอบสถานะ Singularities ได้
-4.	Simulation สามารแสดงการเคลื่อนที่ของ Quadruped Robot ไปยังตำแหน่งที่ต้องการได้อย่างถูกต้อง
+1.Simulation ที่สามารถจำลองการเดินของ Quadruped Robot ได้โดยมีการกำหนดตัวแปรแค่ 3 ตัว
+2.โปรแกรมที่สามารถวางแผน Trajectory ของขาหุ่นยนต์ใน Workspace และสามารถสร้างเส้นทางการเคลื่อนไหวที่เหมาะสมใน Task space
+3.Simulation สามารถบันทึกตำแหน่ง, ความเร็ว และ ความเร่ง ณ เวลาใดๆ และแสดงออกมาเป็นกราฟสำหรับการวิเคราะห์ได้
+4.Simulation สามารแสดงการเคลื่อนที่ของ Quadruped Robot ไปยังตำแหน่งที่ต้องการได้อย่างถูกต้อง
+5.Simulation สามารถแสดงค่า Error ระหว่างตำแหน่งที่ต้องการและตำแหน่งที่หุ่นเดินไปจริงในรูปแบบของกราฟได้
 
 ### รายละเอียดโครงการ
 ![รูปที่ 9 แสดง Trajectory Diagram](Picture9.png)  
@@ -1033,10 +1034,10 @@ $$ P_{s}=\begin{bmatrix}{{V}_{F}}{T}_0\\ 0\end{bmatrix} $$
 
 คลิกที่ภาพเพื่อดูวิดีโอ
 
-[![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://youtu.be/HdOScgHzM_g?si=699VRjN-CH8wouwy)
+[![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://youtu.be/HdOScgHzM_g?si=699VRjN-CH8wouwy)c
 
 คลิกที่ภาพเพื่อดูวิดีโอ
 
-[![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://youtu.be/HdOScgHzM_g?si=699VRjN-CH8wouwy)
+[![GUI Input](https://img.youtube.com/vi/HdOScgHzM_g/0.jpg)](https://www.youtube.com/watch?si=Ws8e2gk5lV29k6WU&v=lc5_IkYX8-M&feature=youtu.be)
 
 คลิกที่ภาพเพื่อดูวิดีโอ
